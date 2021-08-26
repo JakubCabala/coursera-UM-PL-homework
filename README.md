@@ -12,5 +12,7 @@ Part B moves on to Racket. The most interesting sectin of this part is, in my op
 
 # Links to the course
 Part A - https://www.coursera.org/learn/programming-languages
+
 Part B - https://www.coursera.org/learn/programming-languages-part-b?
+
 Part C - https://www.coursera.org/learn/programming-languages-part-c
