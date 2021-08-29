@@ -1,4 +1,4 @@
-# Homework for Universsity of Michigan's Programming Language Course
+# Homework for University of Michigan's Programming Language Course
 My version of homework from every part of University of Michigan's Programming Languages course on coursera
 
 # About my participation
@@ -16,6 +16,6 @@ Part B moves on to Racket. The most interesting sectin of this part is, in my op
 # Links to the course
 Part A - https://www.coursera.org/learn/programming-languages
 
-Part B - https://www.coursera.org/learn/programming-languages-part-b?
+Part B - https://www.coursera.org/learn/programming-languages-part-b
 
 Part C - https://www.coursera.org/learn/programming-languages-part-c
